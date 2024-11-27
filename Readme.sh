@@ -69,8 +69,7 @@ Usage
 Clone the repository:
 
 sh
-git clone https://github.com/yourusername/sleep-quality-prediction-model.git
-cd sleep-quality-prediction-model
+git clone https://github.com/rajbasnet123789/Sleep-quality-prediction/tree/main
 Install the required packages:
 
 sh
@@ -83,7 +82,7 @@ Installation
 Clone the repository:
 
 sh
-git clone https://github.com/yourusername/sleep-quality-prediction-model.git
+git clone https://github.com/rajbasnet123789/Sleep-quality-prediction/tree/main
 Navigate to the project directory:
 
 sh
